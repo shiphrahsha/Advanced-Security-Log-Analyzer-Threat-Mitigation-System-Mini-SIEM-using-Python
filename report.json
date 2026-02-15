@@ -1,0 +1,20 @@
+[
+    {
+        "ip": "192.168.1.10",
+        "failed_attempts": 3,
+        "success_attempts": 1,
+        "risk_level": "MEDIUM",
+        "first_seen": "2026-02-10 10:00:01",
+        "last_seen": "2026-02-10 10:00:15",
+        "alert": "Possible Account Compromise"
+    },
+    {
+        "ip": "192.168.1.30",
+        "failed_attempts": 5,
+        "success_attempts": 0,
+        "risk_level": "HIGH",
+        "first_seen": "2026-02-10 10:01:01",
+        "last_seen": "2026-02-10 10:01:20",
+        "alert": "Account Lockout Triggered"
+    }
+]

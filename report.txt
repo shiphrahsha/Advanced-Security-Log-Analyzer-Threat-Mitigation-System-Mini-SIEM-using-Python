@@ -1,0 +1,17 @@
+Security Incident Report
+=========================
+
+IP Address: 192.168.1.10
+Failed Attempts: 3
+Successful Attempts: 1
+Risk Level: MEDIUM
+Attack Duration: 0:00:14
+[ALERT] Possible Account Compromise
+
+IP Address: 192.168.1.30
+Failed Attempts: 5
+Successful Attempts: 0
+Risk Level: HIGH
+Attack Duration: 0:00:19
+[ALERT] Account Lockout Triggered
+

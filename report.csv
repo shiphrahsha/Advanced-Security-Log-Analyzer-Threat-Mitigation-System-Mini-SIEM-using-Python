@@ -1,0 +1,3 @@
+IP Address,Failed Attempts,Success Attempts,Risk Level,First Seen,Last Seen
+192.168.1.10,3,1,MEDIUM,2026-02-10 10:00:01,2026-02-10 10:00:15
+192.168.1.30,5,0,HIGH,2026-02-10 10:01:01,2026-02-10 10:01:20
